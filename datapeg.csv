@@ -1,0 +1,90 @@
+﻿No,Nama,Usia,Gender,Golongan,Status,Asal,Keterangan
+1,Jumadi,54,L,IIIa,PNS,Surabaya,Aktif
+2,Srini,32,P,IIIc,Kontrak,Jombang,Aktif
+3,Achmad,51,L,IId,PNS,Kediri,Aktif
+4,Bilal,37,L,IIIc,Kontrak,Surabaya,Aktif
+5,Cicik,26,P,IIIc,PNS,Bojonegoro,Tugas Belajar
+6,Rendra,42,L,IIIb,PNS,Surabaya,Cuti
+7,Wahyu,46,L,IIIa,Honorer,Gresik,Aktif
+8,Juminten,36,P,IIIa,PNS,Mojokerto,Aktif
+9,Sidiq,28,L,IIIb,PNS,Kediri,Aktif
+10,Anang,32,L,IIc,PNS,Nganjuk,Cuti
+11,Andri,56,P,IIId,Honorer,Ngawi,Aktif
+12,Marfuah,44,P,IId,PNS,Kediri,Tugas Belajar
+13,Sasono,37,L,IIc,Kontrak,Mojokerto,Aktif
+14,Aripin,42,L,IIa,PNS,Sidoarjo,Aktif
+15,Saputro,51,L,IIIa,Honorer,Surabaya,Aktif
+16,Zekky,50,L,IIIb,PNS,Banyuwangi,Aktif
+17,Syukron,39,L,IIIc,PNS,Sidoarjo,Aktif
+18,Bahtiar,28,L,IIc,Honorer,Nganjuk,Aktif
+19,Bambang,25,L,IIIb,PNS,Surabaya,Aktif
+20,Endang,43,P,IIIb,PNS,Sidoarjo,Aktif
+21,Dariyo,42,L,IId,PNS,Pasuruan,Aktif
+22,Katijo,51,L,IId,PNS,Banyuwangi,Aktif
+23,Didik,52,L,IId,Kontrak,Sidoarjo,Aktif
+24,Wulan,30,P,IIIb,PNS,Malang,Cuti
+25,Gatot,28,L,IIIc,PNS,Sidoarjo,Aktif
+26,Joko,36,L,IIIb,PNS,Lamongan,Aktif
+27,Siti Kamarmandi,50,P,IIId,Kontrak,Surabaya,Aktif
+28,Esti,41,P,IId,Kontrak,Surabaya,Aktif
+29,Purnomo,28,L,IIIa,Kontrak,Sidoarjo,Aktif
+30,Agung,28,L,IIIa,Kontrak,Sidoarjo,Aktif
+31,Hariono,32,L,IIIb,PNS,Jakarta,Aktif
+32,Pujo,56,L,IIIb,PNS,Sidoarjo,Aktif
+33,Haryadi,44,L,IIIa,PNS,Bandung,Aktif
+34,Herry,37,L,IIIc,PNS,Blora,Aktif
+35,Ghozali,42,L,IIId,Kontrak,Sidoarjo,Aktif
+36,Nurul,51,P,IIIa,Kontrak,Solo,Aktif
+37,Markonah,50,P,IIc,Kontrak,Yogyakarta,Aktif
+38,Ismail,39,L,IIb,PNS,Sidoarjo,Cuti
+39,Ulfa,37,P,IIIa,PNS,Sidoarjo,Aktif
+40,Zulifar,36,P,IIIc,PNS,Surabaya,Aktif
+41,Mardiyanto,52,L,IIIb,Kontrak,Banyuwangi,Aktif
+42,Juwari,30,L,IIIa,PNS,Surabaya,Aktif
+43,Kunti,28,P,Ib,PNS,Surabaya,Aktif
+44,Udin,27,L,IIId,Honorer,Surabaya,Aktif
+45,Herman,32,P,IIc,Honorer,Surabaya,Aktif
+46,Dhini,38,L,IIIb,Kontrak,Tulungagung,Aktif
+47,Mardiyono,43,L,IIIb,Kontrak,Bangkalan,Aktif
+48,Mariyati,44,P,IIa,Kontrak,Bangkalan,Aktif
+49,Suparjan,37,L,IIIa,PNS,Surabaya,Aktif
+50,Marimas,42,P,IId,PNS,Sidoarjo,Aktif
+51,Surip,35,L,Ic,Honorer,Bangkalan,Aktif
+52,Kusnadi,32,L,IIIa,PNS,Solo,Aktif
+53,Dargombes,31,L,IIIa,Kontrak,Lamongan,Cuti
+54,Kurniawan,35,L,IIIc,Honorer,Magetan,Aktif
+55,Jauhari,51,L,IIIb,PNS,Sidoarjo,Tugas Belajar
+56,Mardiono,42,L,IIIa,PNS,Magetan,Aktif
+57,Musthofah,47,L,IIIb,Kontrak,Surabaya,Aktif
+58,Naning,46,P,IIId,Kontrak,Surabaya,Aktif
+59,Poerwanto,43,L,IIIa,PNS,Surabaya,Aktif
+60,Muladi,32,L,IIc,PNS,Surabaya,Aktif
+61,Sayudi,30,L,IIIc,Honorer,Surabaya,Aktif
+62,Prasetanto,42,L,IIc,Honorer,Nganjuk,Aktif
+63,Soemantri,35,L,IIIb,Honorer,Pacitan,Aktif
+64,Subari,32,L,IIIb,PNS,Tulungagung,Aktif
+65,Sudarto,31,L,IIIa,Kontrak,Pacitan,Aktif
+66,Sukarman,35,L,IIIa,PNS,Pacitan,Aktif
+67,Agus Melas,51,L,IIIa,Honorer,Malang,Aktif
+68,Sulis,22,P,IIId,PNS,Samarinda,Aktif
+69,Tantowi,32,L,IIc,PNS,Surabaya,Aktif
+70,Suminah,31,P,IIc,PNS,Surabaya,Tugas Belajar
+71,Sunaryo,35,L,IId,Kontrak,Pasuruan,Aktif
+72,Suprianto,51,L,IIc,Kontrak,Sidoarjo,Aktif
+73,Gugus,42,L,IIIb,Kontrak,Pasuruan,Aktif
+74,Suradji,47,L,IId,PNS,Jombang,Tugas Belajar
+75,Suratno,46,L,IIa,PNS,Blitar,Cuti
+76,Dante,43,P,IIIb,Kontrak,Jombang,Aktif
+77,Suroto,37,L,IId,PNS,Malang,Aktif
+78,Tajirin,26,L,IIc,Honorer,Sumenep,Aktif
+79,Tugiman,42,L,IIIb,Kontrak,Pati,Aktif
+80,Hartono,46,L,IIa,PNS,Pasuruan,Aktif
+81,Jumiran,36,L,IIId,Kontrak,Bangkalan,Aktif
+82,Alamsyah,28,L,IIId,PNS,Blora,Tugas Belajar
+83,Bukari,32,L,IId,PNS,Surabaya,Aktif
+84,Suminten,56,P,IIId,Honorer,Bojonegoro,Aktif
+85,Marwanto,44,L,IIb,Honorer,Ngawi,Aktif
+86,Wibisono,37,L,IIIc,Honorer,Sidoarjo,Aktif
+87,Pria Muda,42,L,IIc,PNS,Bangkalan,Aktif
+88,Surita,51,P,IIId,PNS,Gresik,Aktif
+89,Yayuk,50,P,IIId,Kontrak,Sumenep,Aktif
